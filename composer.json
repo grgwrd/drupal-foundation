@@ -1,0 +1,24 @@
+{
+    "type": "library",
+    "name": "drupal-foundation/drupal-foundation",
+    "description": "Reusable Drupal foundational classes to streamline the development process.",
+    "prefer-stable": true,
+    "minimum-stability": "dev",
+    "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name": "Travis Tomka",
+            "email": "underoathosx@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.0",
+        "drupal/core": "^9.0",
+        "symfony/string": "^6.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "DrupalFoundation\\DrupalFoundation\\": "./src"
+        }
+    }
+}
