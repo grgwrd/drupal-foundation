@@ -13,7 +13,7 @@
     ],
     "require": {
         "php": ">=8.0",
-        "drupal/core": "^9.0",
+        "drupal/core": "^9.0 || ^10.0",
         "symfony/string": "^6.2"
     },
     "autoload": {
