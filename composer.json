@@ -1,6 +1,6 @@
 {
     "type": "library",
-    "name": "grgwrd/drupal-foundation",
+    "name": "drupal-foundation/drupal-foundation",
     "description": "Reusable Drupal foundational classes to streamline the development process.",
     "prefer-stable": true,
     "minimum-stability": "dev",
