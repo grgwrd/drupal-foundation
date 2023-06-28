@@ -1,14 +1,14 @@
 {
     "type": "library",
-    "name": "drupal-foundation/drupal-foundation",
+    "name": "grgwrd/drupal-foundation",
     "description": "Reusable Drupal foundational classes to streamline the development process.",
     "prefer-stable": true,
     "minimum-stability": "dev",
     "license": "GPL-2.0-or-later",
     "authors": [
         {
-            "name": "Travis Tomka",
-            "email": "underoathosx@gmail.com"
+            "name": "grgwrd",
+            "email": "mailgregcarlson@gmail.com"
         }
     ],
     "require": {
